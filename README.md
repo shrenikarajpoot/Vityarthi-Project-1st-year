@@ -95,40 +95,6 @@ sys – for real-time console updates
 └── README.md        # Project documentation
 
 
-
- Program Flow (Algorithm)
-
-1. Display title screen
-
-
-2. Show list of moods
-
-
-3. Take mood input from user
-
-
-4. Validate mood
-
-
-5. Display loading animation
-
-
-6. Randomly select a song from the mood’s playlist
-
-
-7. Show ASCII visualizer
-
-
-8. Launch song in web browser
-
-
-9. Ask user if they want to continue
-
-
-10. Exit message when quitting
-
-
-
 How it Works
 
 1. User selects mood
