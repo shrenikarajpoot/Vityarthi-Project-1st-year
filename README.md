@@ -15,7 +15,7 @@ To create a Python program using functions, loops, conditional statements, and d
 
 To implement decision-making using Python.
 
-To organisze music into categorized playlists.
+To organize music into categorized playlists.
 
 To build a mood-based recommendation system.
 
