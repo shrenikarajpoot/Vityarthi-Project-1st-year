@@ -2,14 +2,14 @@
                                                                 MOOD-BASED MUSIC PLAYER
 
 
- Project Overview
+ # Project Overview
 
 Mood-Based Music Player is an interactive Python application that recommends and plays songs based on the user’s current mood.
 It includes aesthetic console animations, random song selection, ASCII music visualization, and automatic YouTube integration to provide a fun and engaging experience.
 It uses animations,ASCII visualizers, mood detection inputs, and real-time browser launching to create an engaging experience.
 
 
- Objectives
+ # Objectives
 
 To create a Python program using functions, loops, conditional statements, and dictionaries.
 
@@ -26,7 +26,7 @@ To demonstrate practical use of Python modules like random, time, itertools, and
 To build a simple yet creative application that enhances user experience.
 
 
- Key Features
+# Key Features
 
  1. Mood Detection Input
 
@@ -71,7 +71,7 @@ After playing a song, the user can choose whether to continue or exit the progra
 
 
 
- Technologies & Libraries Used
+# Technologies & Libraries Used
 
 All modules used are built-in Python libraries, making this project simple and portable:
 
@@ -87,7 +87,7 @@ sys – for real-time console updates
 
 
 
- Code Structure
+# Code Structure
 
  Mood-Based-Music-Player
 │
@@ -95,7 +95,7 @@ sys – for real-time console updates
 └── README.md        # Project documentation
 
 
-How it Works
+# How it Works
 
 1.The User selects a mood
 
@@ -116,7 +116,7 @@ How it Works
 
 
 
- How to Run This Program
+# How to Run This Program
 
 1. Install Python 3
 
@@ -135,7 +135,7 @@ python mood_player.py
 
 
 
- Academic Importance
+# Academic Importance
 
 This project showcases my skills in:
 
@@ -148,7 +148,7 @@ This project showcases my skills in:
 7. User Interface experience
 
 
- Possible Future Enhancements
+# Possible Future Enhancements
 
 1.Add GUI using Tkinter
 
@@ -163,13 +163,13 @@ This project showcases my skills in:
 6.Integrate real emotion detection using ML 
 
 
-Final Note
+# Final Note
 
 This project combines music, mood, creativity, technical logic, calmness and Python into one smooth  and enjoyable experience.
 
 
- Developed By
+# Developed By
 
-Shrenika Rajpoot
+# Shrenika Rajpoot
 1st Year B.Tech CSE (AI&ML) Student
 Creative + Technical Project Builder
