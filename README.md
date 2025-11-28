@@ -1,5 +1,5 @@
 # Vityarthi-Project-1st-year
-                                                                 MOOD-BASED MUSIC PLAYER
+                                                                MOOD-BASED MUSIC PLAYER
 
 
  Project Overview
