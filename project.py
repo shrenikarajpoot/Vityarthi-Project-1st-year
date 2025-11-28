@@ -5,8 +5,8 @@ import sys
 import itertools
 def title_screen():
     print("\n" + "="*60)
-    print("             MOOD-BASED MUSIC PLAYER ")
-    print("                    by Shrenika")
+    print("       MOOD-BASED MUSIC PLAYER ")
+    print("            by Shrenika")
     print("="*60)
     time.sleep(1)
 def loading(msg="Analyzing your mood"):
