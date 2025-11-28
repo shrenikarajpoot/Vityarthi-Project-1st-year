@@ -170,6 +170,6 @@ This project combines music, mood, creativity, technical logic, calmness and Pyt
 
 # Developed By
 
-# Shrenika Rajpoot
+ Shrenika Rajpoot
 1st Year B.Tech CSE (AI&ML) Student
 Creative + Technical Project Builder
